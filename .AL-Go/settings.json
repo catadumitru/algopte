@@ -3,7 +3,7 @@
     "installApps": [
         "https://printvis.blob.core.windows.net/pvdevelopment/Temp%20Files/NovaVision%20Software%20AS_PrintVis_20.2.2.0.app",
         "https://printvis.blob.core.windows.net/pvdevelopment/Temp%20Files/NovaVision%20Software%20AS_PrintVis%20System%20Library_20.2.2.0.app"
-    ]
+    ],
     "country":  "us",
     "appFolders":  [
     ],
